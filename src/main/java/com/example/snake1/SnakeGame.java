@@ -1,8 +1,4 @@
-/*
-*          COMPAORE YANN DJAMEL
-*           Mame Bara Diop
-            Aboubacar Kaba
-             Pape Khokhane Séne*/
+
 
 package com.example.snake1;
 
